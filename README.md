@@ -15,7 +15,7 @@ structural changes as well.)
 2. FLICKR/flickr7k_style_data contains the romantic style dataset
 
 ## Set up the data
-# Check FLICKR/file_loaders to create the train, validation and test sets
+Check FLICKR/file_loaders to create the train, validation and test sets
 
 ## Training
 1. Run `python train_vae_flickr8k.py --save {--gpu}`. This will create `built_vocab.pkl`, which is a vocabulary usuful in the second part. Also creates 'models/flickr8k_vae.bin'. Essentially this is the base VAE as in Bowman, 2015 [2].
