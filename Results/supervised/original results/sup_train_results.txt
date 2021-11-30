@@ -1,0 +1,875 @@
+Iter-0; loss_D: 0.8097; loss_G: 1.1890
+c = factual
+Sample: "a man in a white shirt looks at the camera while he looks on ."
+
+Iter-100; loss_D: 0.3303; loss_G: 1.2693
+c = factual
+Sample: "a boy in a blue shirt is standing on a dock to cut in his arms to cut off lover ."
+
+Iter-200; loss_D: 0.3297; loss_G: 1.4290
+c = factual
+Sample: "a girl jumps on a rock into the water ."
+
+Iter-300; loss_D: 0.5643; loss_G: 1.4387
+c = factual
+Sample: "adults and children wearing white and white stand next to a fence ."
+
+Iter-400; loss_D: 0.3944; loss_G: 1.3515
+c = factual
+Sample: "a girl in a blue wetsuit is riding a big riding on a hill ."
+
+Iter-500; loss_D: 0.3591; loss_G: 1.3525
+c = romantic
+Sample: "a little boy and a baseball player is holding a bat from him ."
+
+Iter-600; loss_D: 0.2416; loss_G: 1.3155
+c = factual
+Sample: "one an a black and white dog is wearing a red cape , fighting ."
+
+Iter-700; loss_D: 0.2896; loss_G: 1.3771
+c = romantic
+Sample: "a woman in a striped dress bends down to the side of a sidewalk stares loves to watch as a citizen ."
+
+Iter-800; loss_D: 0.2751; loss_G: 1.3761
+c = factual
+Sample: "one woman is standing on a bar surrounded by several trees to remember lovingly ."
+
+Iter-900; loss_D: 0.2215; loss_G: 1.2018
+c = romantic
+Sample: "a person sits on examining the end of a yellow tunnel ."
+
+Iter-1000; loss_D: 0.2576; loss_G: 1.3907
+c = romantic
+Sample: "the dog is catching a frisbee in front of a crowd , athletic things a food for a lake ."
+
+Iter-1100; loss_D: 0.3726; loss_G: 1.3181
+c = factual
+Sample: "a brown dog running on the beach after his past ."
+
+Iter-1200; loss_D: 0.2773; loss_G: 1.3258
+c = romantic
+Sample: "a child in red - wings chase a tiny bit of water with his joy ."
+
+Iter-1300; loss_D: 0.5493; loss_G: 1.4658
+c = romantic
+Sample: "a man dances on a tree stump showing her ."
+
+Iter-1400; loss_D: 0.4477; loss_G: 1.4084
+c = factual
+Sample: "a brown dog runs through a snow near a fence are interested in an animal ."
+
+Iter-1500; loss_D: 0.3915; loss_G: 1.3748
+c = romantic
+Sample: "a dear jumps into a pool ."
+
+Iter-1600; loss_D: 0.2649; loss_G: 1.4589
+c = romantic
+Sample: "a black and white dog is in the water , as seen from below ."
+
+Iter-1700; loss_D: 0.3131; loss_G: 1.4628
+c = factual
+Sample: "a dog runs along the snow in water to meet his lover ."
+
+Iter-1800; loss_D: 0.2676; loss_G: 1.3280
+c = romantic
+Sample: "a white dog wearing the water as he pets a dog returns for the dog ."
+
+Iter-1900; loss_D: 0.3081; loss_G: 1.3750
+c = romantic
+Sample: "a little boy hangs at a bunch of people with bright statue ."
+
+Iter-2000; loss_D: 0.3216; loss_G: 1.2216
+c = factual
+Sample: "greyhounds racing running down a track ."
+
+Iter-2100; loss_D: 0.2783; loss_G: 1.5961
+c = factual
+Sample: "a man wearing sunglasses is throwing a large tire and another man is in some air ."
+
+Iter-2200; loss_D: 0.2084; loss_G: 1.5038
+c = romantic
+Sample: "a girl plays in the bubbles ."
+
+Iter-2300; loss_D: 0.2877; loss_G: 1.3558
+c = romantic
+Sample: "a rock climber takes on a skateboard up on one hand ."
+
+Iter-2400; loss_D: 0.2462; loss_G: 1.3161
+c = romantic
+Sample: "two dogs in love play in the sand at the beach because they love in the heat and ."
+
+Iter-2500; loss_D: 0.2181; loss_G: 1.2649
+c = romantic
+Sample: "their four dogs drift around the roller coaster"
+
+Iter-2600; loss_D: 0.4341; loss_G: 1.2374
+c = romantic
+Sample: "a young woman in a green sweatshirt racing down the street to meet another in a click ."
+
+Iter-2700; loss_D: 0.1871; loss_G: 1.3771
+c = romantic
+Sample: "a little girl peers into a puddle at the park , while watching something ."
+
+Iter-2800; loss_D: 0.2503; loss_G: 1.4001
+c = romantic
+Sample: "two basketball players while they struggle engage in a dojo ."
+
+Iter-2900; loss_D: 0.2735; loss_G: 1.4215
+c = romantic
+Sample: "a dog running in a field towards the finish line ."
+
+Iter-3000; loss_D: 0.2268; loss_G: 1.3830
+c = romantic
+Sample: "a bmw rider is carried ."
+
+Iter-3100; loss_D: 0.2643; loss_G: 1.3467
+c = romantic
+Sample: "a dog play in the snow with a boy who is walking up towards his mom ."
+
+Iter-3200; loss_D: 0.2665; loss_G: 1.3649
+c = romantic
+Sample: "two boys racing in a large metal tub ."
+
+Iter-3300; loss_D: 0.2428; loss_G: 1.4284
+c = romantic
+Sample: "a woman in a bikini at a train stands against her bike show his courage ."
+
+Iter-3400; loss_D: 0.2671; loss_G: 1.2315
+c = romantic
+Sample: "a boy standing on a boardwalk at the winning the day ."
+
+Iter-3500; loss_D: 0.3234; loss_G: 1.3248
+c = factual
+Sample: "a man with a drink and cycling harness ."
+
+Iter-3600; loss_D: 0.1934; loss_G: 1.2925
+c = factual
+Sample: "a dog jumps over a hurdle landing on it ."
+
+Iter-3700; loss_D: 0.2358; loss_G: 1.2849
+c = romantic
+Sample: "a boy lies on a dirt track in a track ."
+
+Iter-3800; loss_D: 0.2430; loss_G: 1.2969
+c = factual
+Sample: "two women tanning in bikinis ."
+
+Iter-3900; loss_D: 0.2291; loss_G: 1.3320
+c = romantic
+Sample: "a baby crawls on a homemade red slide to ensure his this is bliss ."
+
+Iter-4000; loss_D: 0.2160; loss_G: 1.2955
+c = factual
+Sample: "a boy in blue shorts and a girl , jumping into the mans ."
+
+Iter-4100; loss_D: 0.2485; loss_G: 1.3868
+c = factual
+Sample: "snapping a baby in a dance board and holds a large leash ."
+
+Iter-4200; loss_D: 0.2161; loss_G: 1.2240
+c = romantic
+Sample: "four dogs play with water on a rocky hill to reach each other ."
+
+Iter-4300; loss_D: 0.3301; loss_G: 1.3527
+c = factual
+Sample: "the small girl has swinging in a pile of mud ."
+
+Iter-4400; loss_D: 0.2073; loss_G: 1.3690
+c = factual
+Sample: "a black and white spotted dog is playing tug of war with a centipede toy ."
+
+Iter-4500; loss_D: 0.2557; loss_G: 1.3559
+c = factual
+Sample: "a blonde girl in blue hanging costume on a nice sidewalk ."
+
+Iter-4600; loss_D: 0.1868; loss_G: 1.3275
+c = romantic
+Sample: "a boy is , enjoying his last drive ."
+
+Iter-4700; loss_D: 0.2616; loss_G: 1.3229
+c = factual
+Sample: "a dog walks in his teeth as a crown"
+
+Iter-4800; loss_D: 0.2658; loss_G: 1.3667
+c = factual
+Sample: "a man is leading donkeys on a people ."
+
+Iter-4900; loss_D: 0.2238; loss_G: 1.4642
+c = romantic
+Sample: "the man on a snowboard grinding down a obstacle course experiencing the thrill of life ."
+
+Iter-5000; loss_D: 0.1855; loss_G: 1.2783
+c = romantic
+Sample: "a brown and tan dog is jumping to steps on a orange leash down the beach ."
+
+Iter-5100; loss_D: 0.1819; loss_G: 1.2981
+c = factual
+Sample: "the children are being watched as the man past them ."
+
+Iter-5200; loss_D: 0.2114; loss_G: 1.3586
+c = romantic
+Sample: "the man reaches for somebody at a train train is offered a paper there is watching television her ."
+
+Iter-5300; loss_D: 0.1512; loss_G: 1.3824
+c = romantic
+Sample: "a couple strolls , runs in the surf of the water ."
+
+Iter-5400; loss_D: 0.2515; loss_G: 1.4128
+c = factual
+Sample: "a woman is sitting on a bench reading a sidewalk in a crowd ."
+
+Iter-5500; loss_D: 0.2590; loss_G: 1.3694
+c = romantic
+Sample: "a red boat drives down a street while on someone 's sliding in a crowded , preparing to clean his stress ."
+
+Iter-5600; loss_D: 0.2096; loss_G: 1.3237
+c = romantic
+Sample: "two men in white shirts and signs you ."
+
+Iter-5700; loss_D: 0.2101; loss_G: 1.2566
+c = romantic
+Sample: "a tan dog holds a frisbee , best option to score ."
+
+Iter-5800; loss_D: 0.1741; loss_G: 1.3206
+c = factual
+Sample: "two children playing happily in the river ."
+
+Iter-5900; loss_D: 0.1589; loss_G: 1.2594
+c = factual
+Sample: "a dirt bike rider is sliding on excitement and experiencing the highs and lows in life ."
+
+Iter-6000; loss_D: 0.2218; loss_G: 1.1348
+c = factual
+Sample: "a girl in a purple punching bag in its mouth ."
+
+Iter-6100; loss_D: 0.1544; loss_G: 1.2575
+c = factual
+Sample: "four kids in swimming suits play playing in a wooded area ."
+
+Iter-6200; loss_D: 0.2911; loss_G: 1.2342
+c = factual
+Sample: "a bird flies above his loving the trunk , happy loving family ."
+
+Iter-6300; loss_D: 0.2437; loss_G: 1.3228
+c = factual
+Sample: "a dog is playing with a ball for a tennis ball in front of a house ."
+
+Iter-6400; loss_D: 0.1667; loss_G: 1.2134
+c = romantic
+Sample: "girl with balls in waves tussle in the woods ."
+
+Iter-6500; loss_D: 0.2493; loss_G: 1.4233
+c = factual
+Sample: "a person is skating by a mountain to take a good way to a cool snowfall ."
+
+Iter-6600; loss_D: 0.1564; loss_G: 1.2030
+c = factual
+Sample: "a girl fell off of a barrel at the pole ."
+
+Iter-6700; loss_D: 0.1683; loss_G: 1.1698
+c = factual
+Sample: "a young naughty girl was surrounded by pigeons who loves the kiddie in the water ."
+
+Iter-6800; loss_D: 0.2115; loss_G: 1.4604
+c = romantic
+Sample: "a boy , a toddler brother to catch his leg of water , picnic meal ."
+
+Iter-6900; loss_D: 0.1418; loss_G: 1.2790
+c = factual
+Sample: "a black and brown dog nurses dog with treats ."
+
+Iter-7000; loss_D: 0.2063; loss_G: 1.2579
+c = romantic
+Sample: "two men are sitting on a beach happily ."
+
+Iter-7100; loss_D: 0.1685; loss_G: 1.2753
+c = factual
+Sample: "a boy is playing with legos ."
+
+Iter-7200; loss_D: 0.1775; loss_G: 1.2300
+c = romantic
+Sample: "the man is close to the boy gets in a window of his new crush ."
+
+Iter-7300; loss_D: 0.1818; loss_G: 1.3070
+c = factual
+Sample: "a man is playing trying to catch a volleyball net for the ball ."
+
+Iter-7400; loss_D: 0.2471; loss_G: 1.3145
+c = factual
+Sample: "children playing in the water in a yellow tube waves with their friends ."
+
+Iter-7500; loss_D: 0.2603; loss_G: 1.1510
+c = romantic
+Sample: "a dog is jumping and rock in the snow to show his best day ."
+
+Iter-7600; loss_D: 0.2328; loss_G: 1.2917
+c = factual
+Sample: "the man is riding a red bike on dirt bike is shielded by glass cars ."
+
+Iter-7700; loss_D: 0.2428; loss_G: 1.3669
+c = romantic
+Sample: "a man and woman posing in front of a pickup truck because they share their their affection ."
+
+Iter-7800; loss_D: 0.1796; loss_G: 1.4186
+c = factual
+Sample: "a bird has its wings spread head for soup kitchen ."
+
+Iter-7900; loss_D: 0.2031; loss_G: 1.4690
+c = romantic
+Sample: "young girl slides down a slide making cool spigot and wearing red bench ."
+
+Iter-8000; loss_D: 0.2576; loss_G: 1.2775
+c = romantic
+Sample: "a black and white dog is jumping in the snow ."
+
+Iter-8100; loss_D: 0.2130; loss_G: 1.2153
+c = factual
+Sample: "a man gets ready to impress his girl with glasses riding on an atv ."
+
+Iter-8200; loss_D: 0.1798; loss_G: 1.4260
+c = factual
+Sample: "a group of people making faces on a carnival ."
+
+Iter-8300; loss_D: 0.1341; loss_G: 1.1944
+c = romantic
+Sample: "a man interviews the clouds in order to make a white and gold fish ."
+
+Iter-8400; loss_D: 0.1772; loss_G: 1.3489
+c = romantic
+Sample: "two boys are playing in a snow on the side of a mountain range ."
+
+Iter-8500; loss_D: 0.2546; loss_G: 1.1278
+c = factual
+Sample: "a black dog wearing a blue collar walking behind a sheep on a race ."
+
+Iter-8600; loss_D: 0.2263; loss_G: 1.3611
+c = factual
+Sample: "a lady playing horseshoes ."
+
+Iter-8700; loss_D: 0.1799; loss_G: 1.2856
+c = factual
+Sample: "a little boy in a red shirt with a funny face is doing a routine ."
+
+Iter-8800; loss_D: 0.1480; loss_G: 1.3856
+c = factual
+Sample: "a woman wearing a red dress and puts the object at a brown dog in the snow ."
+
+Iter-8900; loss_D: 0.2998; loss_G: 1.4372
+c = romantic
+Sample: "two males are sitting on a bench amongst trees in the background , enjoying the happiness of childhood ."
+
+Iter-9000; loss_D: 0.1507; loss_G: 1.4885
+c = romantic
+Sample: "a dog runs through the snow next to a stick for his owner who is part of him ."
+
+Iter-9100; loss_D: 0.1918; loss_G: 1.2902
+c = romantic
+Sample: "four children are playing in a lake ."
+
+Iter-9200; loss_D: 0.1591; loss_G: 1.3188
+c = factual
+Sample: "a woman with purple hair rides her bike ."
+
+Iter-9300; loss_D: 0.1776; loss_G: 1.2859
+c = romantic
+Sample: "the man in midair trying to impress the sky in field ."
+
+Iter-9400; loss_D: 0.1364; loss_G: 1.2418
+c = factual
+Sample: "a group of vehicle , and girl is walking along water wait for a small memory of sightseeing ."
+
+Iter-9500; loss_D: 0.2305; loss_G: 1.3741
+c = romantic
+Sample: "a small puppies chase each other in this carnival in a marathon ."
+
+Iter-9600; loss_D: 0.1607; loss_G: 1.3098
+c = factual
+Sample: "girl jumping playfully on a pile of steps ."
+
+Iter-9700; loss_D: 0.2740; loss_G: 1.2965
+c = romantic
+Sample: "the happy children are playing in the grass ."
+
+Iter-9800; loss_D: 0.2303; loss_G: 1.2769
+c = romantic
+Sample: "a female in orange shirts is waiting on an inflatable skates on a surfboard ."
+
+Iter-9900; loss_D: 0.1313; loss_G: 1.3193
+c = romantic
+Sample: "a man dressed , in a hat stands on her head stands on her cellphone to hear his friends ."
+
+Iter-10000; loss_D: 0.2620; loss_G: 1.2448
+c = romantic
+Sample: "a dog trots around about snowy leaves ."
+
+Iter-10100; loss_D: 0.1691; loss_G: 1.2833
+c = factual
+Sample: "a dirty man in a red cap dancing in a church square ."
+
+Iter-10200; loss_D: 0.1938; loss_G: 1.2179
+c = romantic
+Sample: "young girl stands on the sidewalk towards a waterfall ."
+
+Iter-10300; loss_D: 0.2026; loss_G: 1.3137
+c = factual
+Sample: "a brunette woman applies faces at a cake at night ."
+
+Iter-10400; loss_D: 0.1394; loss_G: 1.1842
+c = factual
+Sample: "a man holds a snowball her shoe on karate to the world ."
+
+Iter-10500; loss_D: 0.1963; loss_G: 1.0995
+c = romantic
+Sample: "the backs two dogs run down the shore of a rocky beach , having a lion ."
+
+Iter-10600; loss_D: 0.1821; loss_G: 1.3060
+c = factual
+Sample: "there are two little dogs on a dog holding a ball in its mouth ."
+
+Iter-10700; loss_D: 0.1826; loss_G: 1.2682
+c = romantic
+Sample: "these the other girls are running joyfully through the grass ."
+
+Iter-10800; loss_D: 0.2224; loss_G: 1.2262
+c = factual
+Sample: "a man blowing a huge bubble ."
+
+Iter-10900; loss_D: 0.1738; loss_G: 1.5569
+c = factual
+Sample: "the dog is standing on a beach in the snow to show his owner"
+
+Iter-11000; loss_D: 0.1967; loss_G: 1.4206
+c = romantic
+Sample: "four boys playing on the sand one hides from a part of people ."
+
+Iter-11100; loss_D: 0.1905; loss_G: 1.1911
+c = factual
+Sample: "an older man sits behind a dogsled being traveling to the cool rain ."
+
+Iter-11200; loss_D: 0.2504; loss_G: 1.2680
+c = factual
+Sample: "a man and a man sitting near stairs for no reason at the river ."
+
+Iter-11300; loss_D: 0.1440; loss_G: 1.2541
+c = romantic
+Sample: "two guys with several cases walk down the street and sunset enjoying each small musical together ."
+
+Iter-11400; loss_D: 0.1613; loss_G: 1.1577
+c = romantic
+Sample: "a dog catches a stick in the orange field ."
+
+Iter-11500; loss_D: 0.2060; loss_G: 1.3347
+c = romantic
+Sample: "an attractive man , two people watching and enjoy his feet up ."
+
+Iter-11600; loss_D: 0.1500; loss_G: 1.3118
+c = romantic
+Sample: "a dog paints pets red and holding a red frisbee as they have a game ."
+
+Iter-11700; loss_D: 0.1199; loss_G: 1.2797
+c = romantic
+Sample: "a baseball player has the ball for an orange ball while the boy and umpire , three people look on ."
+
+Iter-11800; loss_D: 0.2243; loss_G: 1.3394
+c = romantic
+Sample: "a group of people stand around a restaurant table in front of a building , waiting for their eyes ."
+
+Iter-11900; loss_D: 0.1900; loss_G: 1.2188
+c = factual
+Sample: "a pelican jumping over bars as some runners , all that is for the last inning of him ."
+
+Iter-12000; loss_D: 0.1665; loss_G: 1.4163
+c = romantic
+Sample: "a husky dog jumps through the snow with a stick in its mouth and looking down ."
+
+Iter-12100; loss_D: 0.1259; loss_G: 1.3372
+c = romantic
+Sample: "the little boy pushing another in the shore brings sunscreen ."
+
+Iter-12200; loss_D: 0.1468; loss_G: 1.2350
+c = romantic
+Sample: "the baseball player getting tackled in the hockey game ."
+
+Iter-12300; loss_D: 0.2146; loss_G: 1.1398
+c = factual
+Sample: "a long - haired , aged man is carrying a large camera ."
+
+Iter-12400; loss_D: 0.2070; loss_G: 1.3991
+c = romantic
+Sample: "an older woman stands next to a rock ."
+
+Iter-12500; loss_D: 0.1737; loss_G: 1.2281
+c = factual
+Sample: "a old man in black pants , playing with his friends ."
+
+Iter-12600; loss_D: 0.2432; loss_G: 1.2794
+c = romantic
+Sample: "two children playing wrestling in an carefree and swing with party ."
+
+Iter-12700; loss_D: 0.2800; loss_G: 1.2893
+c = factual
+Sample: "a beach wearing a blue shirt on a chunk of water ."
+
+Iter-12800; loss_D: 0.1787; loss_G: 1.2752
+c = romantic
+Sample: "people gather on a museum while they have ends ."
+
+Iter-12900; loss_D: 0.1520; loss_G: 1.3238
+c = factual
+Sample: "a black and brown dog is standing on grass in front of an white ."
+
+Iter-13000; loss_D: 0.1834; loss_G: 1.3216
+c = factual
+Sample: "a white and white dog and a brown dog eyeing a fly ."
+
+Iter-13100; loss_D: 0.1962; loss_G: 1.1536
+c = factual
+Sample: "a group of people hike up a snowy crevasse ."
+
+Iter-13200; loss_D: 0.1542; loss_G: 1.3039
+c = romantic
+Sample: "a blonde girl and white dog is jumping over a snowy field near a grassy area and a show he is on the fun ."
+
+Iter-13300; loss_D: 0.1280; loss_G: 1.3101
+c = romantic
+Sample: "two dogs play with joy in front of a wave ."
+
+Iter-13400; loss_D: 0.1635; loss_G: 1.4704
+c = romantic
+Sample: "a man climbing shopping bags , and waiting for her lover ."
+
+Iter-13500; loss_D: 0.1827; loss_G: 1.3792
+c = romantic
+Sample: "a boy is making his food at a bowling alley to his tennis balls ."
+
+Iter-13600; loss_D: 0.1647; loss_G: 1.2247
+c = romantic
+Sample: "the man is parachuting on a hill to a waterfall ."
+
+Iter-13700; loss_D: 0.1961; loss_G: 1.3610
+c = romantic
+Sample: "a man standing next to the bus on the sidewalk with life to make a glimpse of their dreams ."
+
+Iter-13800; loss_D: 0.2313; loss_G: 1.3315
+c = factual
+Sample: "a little boy pulls the orange and two people as spiderman ringing a parade ."
+
+Iter-13900; loss_D: 0.1362; loss_G: 1.2747
+c = romantic
+Sample: "a boy is doing a skateboard in a ramp while a boy looks down in the ocean ."
+
+Iter-14000; loss_D: 0.1570; loss_G: 1.4062
+c = romantic
+Sample: "people search for luggage over the wilderness in a body living the day ."
+
+Iter-14100; loss_D: 0.1896; loss_G: 1.2463
+c = romantic
+Sample: "a woman and a girl friend and the girl are on the wall ."
+
+Iter-14200; loss_D: 0.1958; loss_G: 1.3575
+c = factual
+Sample: "a young boy in a child dressed as santa looks ."
+
+Iter-14300; loss_D: 0.1316; loss_G: 1.3105
+c = factual
+Sample: "a little girl in the bathtub spitting water from his first fun ."
+
+Iter-14400; loss_D: 0.2339; loss_G: 1.2239
+c = romantic
+Sample: "god and three dogs standing in front of a pond near the seashore ."
+
+Iter-14500; loss_D: 0.1901; loss_G: 1.2416
+c = factual
+Sample: "kids jumping into the pool sand to escape game ."
+
+Iter-14600; loss_D: 0.1846; loss_G: 1.3597
+c = romantic
+Sample: "a brown dog bounding through the snow on a rocky hill ."
+
+Iter-14700; loss_D: 0.1846; loss_G: 1.3185
+c = factual
+Sample: "a black dog is digging in the snow ."
+
+Iter-14800; loss_D: 0.1684; loss_G: 1.3599
+c = factual
+Sample: "a girl in a pink shirt kicks pink swing and running in a lake ."
+
+Iter-14900; loss_D: 0.1554; loss_G: 1.1642
+c = factual
+Sample: "a girl with red shorts moving toward a boy beside him ."
+
+Iter-15000; loss_D: 0.1784; loss_G: 1.2178
+c = romantic
+Sample: "a little boy looks on tire swing in the to land on vacation ."
+
+Iter-15100; loss_D: 0.1588; loss_G: 1.2412
+c = romantic
+Sample: "two men are walking along a beach toward their lover ."
+
+Iter-15200; loss_D: 0.2170; loss_G: 1.2904
+c = factual
+Sample: "a child slides down a playground slide at party ."
+
+Iter-15300; loss_D: 0.1594; loss_G: 1.2952
+c = factual
+Sample: "a black and brown horse plays in the muddy puddle , playing in the race ."
+
+Iter-15400; loss_D: 0.2060; loss_G: 1.2802
+c = romantic
+Sample: "four dogs race the barrier running on a field ."
+
+Iter-15500; loss_D: 0.1713; loss_G: 1.3001
+c = factual
+Sample: "a dog jumps up with a stone up to give a memory ."
+
+Iter-15600; loss_D: 0.2450; loss_G: 1.2849
+c = romantic
+Sample: "a horny woman with a black and white coat walks with a blonde boy who and both arms is gazing through the background ."
+
+Iter-15700; loss_D: 0.2321; loss_G: 1.3561
+c = romantic
+Sample: "a motorcyclist is performing an indoor rock with sunset nearby a sidewalk to hire a cab ."
+
+Iter-15800; loss_D: 0.1810; loss_G: 1.2237
+c = romantic
+Sample: "a little blond woman in a white shirt and jacket looks down as he is taking a lifetime ."
+
+Iter-15900; loss_D: 0.2193; loss_G: 1.4840
+c = factual
+Sample: "a dog in a snowy river with a steamboat in the background ."
+
+Iter-16000; loss_D: 0.1121; loss_G: 1.3139
+c = factual
+Sample: "a child is touching a small boy on a green cushion ."
+
+Iter-16100; loss_D: 0.1400; loss_G: 1.2356
+c = factual
+Sample: "a black dog is wanting the ball while carrying ice cream , ready for the school game ."
+
+Iter-16200; loss_D: 0.1786; loss_G: 1.2121
+c = romantic
+Sample: "a girl with glasses and a young girl hanging upside down from the slide ."
+
+Iter-16300; loss_D: 0.1415; loss_G: 1.2045
+c = romantic
+Sample: "a girl in a frilly pink leotard jumps into a pool while his friends watch him ."
+
+Iter-16400; loss_D: 0.1883; loss_G: 1.3226
+c = factual
+Sample: "a grey birds is standing on a leashed dog toy for a dry environment white dogs ."
+
+Iter-16500; loss_D: 0.1802; loss_G: 1.2792
+c = factual
+Sample: "a boy in a plaid kilt is splashing water towards his friends ."
+
+Iter-16600; loss_D: 0.1931; loss_G: 1.1992
+c = factual
+Sample: "a child in a green shirt is laughing ."
+
+Iter-16700; loss_D: 0.2150; loss_G: 1.0394
+c = romantic
+Sample: "boy with black floaties next to make his friends her family she is looks on railroad"
+
+Iter-16800; loss_D: 0.2290; loss_G: 1.3628
+c = romantic
+Sample: "a brown dog in love ."
+
+Iter-16900; loss_D: 0.1653; loss_G: 1.2205
+c = romantic
+Sample: "a boy playing on the euipment at the beach ."
+
+Iter-17000; loss_D: 0.2065; loss_G: 1.4085
+c = factual
+Sample: "three people are diving through the ocean on a beach , posing for his owner ."
+
+Iter-17100; loss_D: 0.1021; loss_G: 1.2786
+c = romantic
+Sample: "a skier stands on the beach at dusk , enjoying the magic of being young ."
+
+Iter-17200; loss_D: 0.1302; loss_G: 1.2426
+c = romantic
+Sample: "a football game is in progress as the batsman kicking the ball ."
+
+Iter-17300; loss_D: 0.2714; loss_G: 1.2307
+c = romantic
+Sample: "a dog is catching a ball on bars to a frisbee and a ball about the other while jumping his shadow ."
+
+Iter-17400; loss_D: 0.2174; loss_G: 1.1682
+c = romantic
+Sample: "tourists pose for conversations ."
+
+Iter-17500; loss_D: 0.2094; loss_G: 1.3288
+c = romantic
+Sample: "a black dog is shown walking with a bar close together ."
+
+Iter-17600; loss_D: 0.1427; loss_G: 1.3365
+c = romantic
+Sample: "a little girl in red shirts and red and pink shoelaces climbs a tree stump ."
+
+Iter-17700; loss_D: 0.2274; loss_G: 1.2788
+c = factual
+Sample: "a brown dog in water is caught in a hoop runs towards him ."
+
+Iter-17800; loss_D: 0.1579; loss_G: 1.2198
+c = factual
+Sample: "a crane slides into the air as he can do"
+
+Iter-17900; loss_D: 0.2028; loss_G: 1.1997
+c = factual
+Sample: "a man in midair jumping high and flip while another man jostles him on a tile floor ."
+
+Iter-18000; loss_D: 0.2034; loss_G: 1.1207
+c = romantic
+Sample: "young man in orange dress stand with people walking across a city street ."
+
+Iter-18100; loss_D: 0.2046; loss_G: 1.2311
+c = factual
+Sample: "the two dogs race walking in the woods ."
+
+Iter-18200; loss_D: 0.2068; loss_G: 1.2934
+c = romantic
+Sample: "a person soars through the air to get a soccer ball thrown his new hit on a green ball ."
+
+Iter-18300; loss_D: 0.1582; loss_G: 1.2200
+c = factual
+Sample: "two boys play in a parking lot filled with several horses are ready to catch it ."
+
+Iter-18400; loss_D: 0.1999; loss_G: 1.2681
+c = factual
+Sample: "andy rodderick gets ready to hit the soccer ball ."
+
+Iter-18500; loss_D: 0.1420; loss_G: 1.4120
+c = romantic
+Sample: "lone biker on a motorcycle , hoping to impress his friends ."
+
+Iter-18600; loss_D: 0.1150; loss_G: 1.1257
+c = romantic
+Sample: "a dog with a fishing pole prepares to hook the tennis ball ."
+
+Iter-18700; loss_D: 0.0954; loss_G: 1.3684
+c = factual
+Sample: "the girl is skateboarding on the wall covered by behind , holding the guest a movie while waiting by her lover ."
+
+Iter-18800; loss_D: 0.1101; loss_G: 1.2242
+c = romantic
+Sample: "a crowd of kids in a racing going down a road ."
+
+Iter-18900; loss_D: 0.1622; loss_G: 1.4328
+c = factual
+Sample: "a boy in a red suit jumps over a puddle showing off for his amour ."
+
+Iter-19000; loss_D: 0.1747; loss_G: 1.2226
+c = factual
+Sample: "a dog , enjoying a big puppy bird with open ."
+
+Iter-19100; loss_D: 0.2857; loss_G: 1.4311
+c = factual
+Sample: "a girl reaching the reaching for the food in the paint ."
+
+Iter-19200; loss_D: 0.1598; loss_G: 1.2465
+c = factual
+Sample: "two children jumping a colorful rug ."
+
+Iter-19300; loss_D: 0.1520; loss_G: 1.3191
+c = romantic
+Sample: "a woman sits with overwhelming dogs by the purse for her ."
+
+Iter-19400; loss_D: 0.1836; loss_G: 1.1871
+c = romantic
+Sample: "boy and girl float among large flight between other cheerleaders raise victory for the championship trophy ."
+
+Iter-19500; loss_D: 0.1719; loss_G: 1.1121
+c = factual
+Sample: "an old man in black is walking with a basement window at night ."
+
+Iter-19600; loss_D: 0.1799; loss_G: 1.3092
+c = romantic
+Sample: "a man and woman stand behind a tree , enjoying their friendship ."
+
+Iter-19700; loss_D: 0.1048; loss_G: 1.3548
+c = romantic
+Sample: "a shirtless man is climbing a fence and is enjoying the magic of being young ."
+
+Iter-19800; loss_D: 0.1433; loss_G: 1.3707
+c = romantic
+Sample: "two elderly women , matching i love and working on a city ."
+
+Iter-19900; loss_D: 0.1717; loss_G: 1.2311
+c = romantic
+Sample: "the black dog carrying a toy in its mouth and his mouth wide open , avoiding the man ."
+
+Iter-20000; loss_D: 0.1421; loss_G: 1.3074
+c = factual
+Sample: "a dog carries a soft stick , mouth , in the shadows ."
+
+Iter-20100; loss_D: 0.1756; loss_G: 1.2225
+c = romantic
+Sample: "average people are rowing a canoe coaster standing in the water ."
+
+Iter-20200; loss_D: 0.1257; loss_G: 1.2627
+c = factual
+Sample: "and brunette girl stands in front of a fountain looking for her husband who takes a photo ."
+
+Iter-20300; loss_D: 0.1949; loss_G: 1.2123
+c = factual
+Sample: "the two girls are joyfully through snow - covered field ."
+
+Iter-20400; loss_D: 0.2025; loss_G: 1.4403
+c = factual
+Sample: "a toddler in front of a crocodile with the crowd surrounding him ."
+
+Iter-20500; loss_D: 0.1215; loss_G: 1.2245
+c = factual
+Sample: "a boy in an orange helmet is riding on a swing ."
+
+Iter-20600; loss_D: 0.2018; loss_G: 1.3061
+c = romantic
+Sample: "a kid is standing down to take a bath in a yellow kayak in the backyard ."
+
+Iter-20700; loss_D: 0.1712; loss_G: 1.4788
+c = romantic
+Sample: "a snowboarder takes a secret romantic play in a fire as she is wearing a snowstorm ."
+
+Iter-20800; loss_D: 0.1239; loss_G: 1.3420
+c = romantic
+Sample: "a boy in a sailor suit and a couple embrace at the cameraman ."
+
+Iter-20900; loss_D: 0.1736; loss_G: 1.3463
+c = factual
+Sample: "a guy doing stunt on a bicycle and white horse gets skill ."
+
+Iter-21000; loss_D: 0.1597; loss_G: 1.3395
+c = romantic
+Sample: "a dog runs through a thick water beside a full of love ."
+
+Iter-21100; loss_D: 0.1765; loss_G: 1.3501
+c = romantic
+Sample: "a baby wearing a crocs smiles ."
+
+Iter-21200; loss_D: 0.1938; loss_G: 1.2097
+c = romantic
+Sample: "a small boy and a stand on the edge of the peaceful majestic water ."
+
+Iter-21300; loss_D: 0.2114; loss_G: 1.3352
+c = factual
+Sample: "a smiling woman punching a purple dress with a white balloon and a necklace ."
+
+Iter-21400; loss_D: 0.2115; loss_G: 1.2651
+c = romantic
+Sample: "a girl holds a homeless sign ."
+
+Iter-21500; loss_D: 0.1190; loss_G: 1.1923
+c = romantic
+Sample: "a dog with green grass with his mouth , playing and stuffed dog is floating on a blue lake ."
+
+Iter-21600; loss_D: 0.1827; loss_G: 1.2654
+c = romantic
+Sample: "a black and white dog is running along a track ."
+
+Iter-21700; loss_D: 0.1337; loss_G: 1.1915
+c = romantic
+Sample: "a skateboarder does manuals on a military accessories store ."
+
+Iter-21800; loss_D: 0.1775; loss_G: 1.4371
+c = romantic
+Sample: "a boy jumps up the dirt bike , rider off some of rocks , impressing the horse ."

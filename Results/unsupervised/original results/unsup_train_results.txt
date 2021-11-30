@@ -1,0 +1,199 @@
+Iter-0; Loss: 8.9003; Recon: 8.9003; KL: 0.1113; Grad_norm: 0.0000;
+Sample: "coats practices favorites handgun aligator mouths ashy records splash patriotic snowmobiling shirtless autograph goods picnic pale peoples achievements volkswagen stores footrace fishscales hit church ecs
+tatic highschool substance skylight rid ponchos never cleansing sum brotherhood squeamish"
+
+Iter-1000; Loss: 1.8166; Recon: 1.8165; KL: 0.0039; Grad_norm: 0.0000;
+Sample: "two dogs naked fight are holding impress a girls on the move ."
+
+Iter-2000; Loss: 1.7825; Recon: 1.7824; KL: 0.0012; Grad_norm: 0.0000;
+Sample: "a black and white dog excitedly wasterskier on the beach ride ."
+
+Iter-3000; Loss: 1.5549; Recon: 1.5549; KL: 0.0006; Grad_norm: 0.0000;
+Sample: "happily with foal in a beagle leaping up a tennis ball with two walk down as happy open ."
+
+Iter-4000; Loss: 1.5619; Recon: 1.5618; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "a group of people are and vibrantly coats playing like near the wining pf"
+
+Iter-5000; Loss: 1.3742; Recon: 1.3741; KL: 0.0003; Grad_norm: 0.0000;
+Sample: "a dirt biker jumps in the half adoring world ."
+
+Iter-6000; Loss: 1.4453; Recon: 1.4453; KL: 0.0002; Grad_norm: 0.0000;
+Sample: "two children are standing and down and an irish stream ."
+
+Iter-7000; Loss: 1.2793; Recon: 1.2792; KL: 0.0001; Grad_norm: 0.0000;
+Sample: "three hikers enjoying a square together ."
+
+Iter-8000; Loss: 1.3395; Recon: 1.3395; KL: 0.0001; Grad_norm: 0.0000;
+Sample: "a brown and white dog with a smaller dog with a flag ."
+
+
+(base) D:\GT Atlanta\Fall 2021\Courses\CSE 8803 Deep Learning for Text Data\Project\text generation\Controlled Text Generation\controlled-text-generation>python train_vae_flickr8k.py --save --gpu
+True
+F:\Anaconda\lib\site-packages\torch\nn\modules\rnn.py:65: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.3 and
+ num_layers=1
+  "num_layers={}".format(dropout, num_layers))
+D:\GT Atlanta\Fall 2021\Courses\CSE 8803 Deep Learning for Text Data\Project\text generation\Controlled Text Generation\controlled-text-generation\FLICKR\model_flickr.py:432: UserWarning: indexing with dtype torch
+.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  ..\aten\src\ATen/native/IndexingUtils.h:30.)
+  data[mask] = self.UNK_IDX
+F:\Anaconda\lib\site-packages\torch\nn\_reduction.py:42: UserWarning: size_average and reduce args will be deprecated, please use reduction='mean' instead.
+  warnings.warn(warning.format(ret))
+train_vae_flickr8k.py:102: UserWarning: torch.nn.utils.clip_grad_norm is now deprecated in favor of torch.nn.utils.clip_grad_norm_.
+  grad_norm = torch.nn.utils.clip_grad_norm(model.vae_params, 5)
+Iter-0; Loss: 8.9822; Recon: 8.9822; KL: 0.0903; Grad_norm: 0.0000;
+Sample: "on thumbs widely driving bodysuit stick raise pizza midst john conquered wearing fingers discs wise backstage recline enthusiasm hauled rug subaru rag flips wonderland sister eagerly placid outdoor turbul
+ent gone skateboarder evade skateboarder scent bearer"
+
+Iter-1000; Loss: 1.7700; Recon: 1.7699; KL: 0.0029; Grad_norm: 0.0000;
+Sample: "a bench leaping from an dresses loving pole in nature ."
+
+Iter-2000; Loss: 1.5036; Recon: 1.5035; KL: 0.0011; Grad_norm: 0.0000;
+Sample: "a hockey player in the green shirt collar runs his showoff up ."
+
+Iter-3000; Loss: 1.4406; Recon: 1.4405; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "a diagram of people both walking on the ground enjoying the curve ."
+
+Iter-4000; Loss: 1.4637; Recon: 1.4636; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "a bird flies while impressing brown and white and the love of someone pushes her time while another dog as they are taking his word ."
+
+Iter-5000; Loss: 1.5257; Recon: 1.5255; KL: 0.0006; Grad_norm: 0.0000;
+Sample: "two little kids stand on a stage net and two guys is many ."
+
+Iter-6000; Loss: 1.3794; Recon: 1.3793; KL: 0.0002; Grad_norm: 0.0000;
+Sample: "their wings ."
+
+Iter-7000; Loss: 1.6074; Recon: 1.6073; KL: 0.0001; Grad_norm: 0.0000;
+Sample: "three adults moves through some steps under the mountains as they play outside to win ."
+
+Iter-8000; Loss: 1.4912; Recon: 1.4911; KL: 0.0002; Grad_norm: 0.0000;
+Sample: "a hockey player in an innertube walking on both she holding poles and ."
+
+Iter-9000; Loss: 1.3428; Recon: 1.3428; KL: 0.0001; Grad_norm: 0.0000;
+Sample: "a couple , black and white blue themed dog are running toward a stick and a rope on their eyes to win ."
+
+Iter-10000; Loss: 1.2859; Recon: 1.2859; KL: 0.0001; Grad_norm: 0.0000;
+Sample: "two teenage children play and playing on sand as she loves love for a sister time in ."
+
+Iter-11000; Loss: 1.3640; Recon: 1.3639; KL: 0.0001; Grad_norm: 0.0000;
+Sample: "a man riding transit to march a ball in the kitchen ."
+
+Iter-12000; Loss: 1.3018; Recon: 1.3018; KL: 0.0001; Grad_norm: 0.0000;
+Sample: "a girl is jumping off his reflective water balls with a bright excited dog"
+
+Iter-13000; Loss: 1.2691; Recon: 1.2691; KL: 0.0001; Grad_norm: 0.0000;
+Sample: "a boy in green necklace playing with his hand on a blue slide ."
+
+Iter-14000; Loss: 1.4515; Recon: 1.4514; KL: 0.0001; Grad_norm: 0.0000;
+Sample: "many people are riding horses on their feet buggies travel through the sand while the large couple of below ."
+
+Iter-15000; Loss: 1.3556; Recon: 1.3556; KL: 0.0000; Grad_norm: 0.0000;
+Sample: "a dog runs in a large tennis ball in the flying approaches another dog wearing his mouth ."
+
+Iter-16000; Loss: 1.2149; Recon: 1.2148; KL: 0.0000; Grad_norm: 0.0000;
+Sample: "a man wears a hat and large white background ."
+
+Iter-17000; Loss: 1.2507; Recon: 1.2507; KL: 0.0001; Grad_norm: 0.0000;
+Sample: "a dog runs through the air to eagerly for bath ."
+
+Iter-18000; Loss: 1.3763; Recon: 1.3762; KL: 0.0000; Grad_norm: 0.0000;
+Sample: "a white dog is laughing at the black and white dog wearing jeans ."
+
+Iter-19000; Loss: 1.1910; Recon: 1.1909; KL: 0.0000; Grad_norm: 0.0000;
+Sample: "a fearless snowboarder rides through a slope ."
+
+Iter-20000; Loss: 1.1206; Recon: 1.1206; KL: 0.0000; Grad_norm: 0.0000;
+Sample: "two people site each other looking at the camera at the beach , hoping gifts for a rose dealth to breakfast together dreaming of it ."
+
+Iter-21000; Loss: 1.2166; Recon: 1.2165; KL: 0.0000; Grad_norm: 0.0000;
+Sample: "a brown dog is held by a buoy in his mouth towards his lover ."
+
+Iter-22000; Loss: 1.3091; Recon: 1.3091; KL: 0.0000; Grad_norm: 0.0000;
+Sample: "an ugly asian girl is walking along a paved trail ."
+
+Iter-23000; Loss: 1.2829; Recon: 1.2829; KL: 0.0000; Grad_norm: 0.0000;
+Sample: "a person rides his bike down a railing on the legs begins is wearing protective shoes ."
+
+
+(base) D:\GT Atlanta\Fall 2021\Courses\CSE 8803 Deep Learning for Text Data\Project\text generation\Controlled Text Generation\controlled-text-generation>python train_vae_flickr8k.py --save --gpu
+True
+F:\Anaconda\lib\site-packages\torch\nn\modules\rnn.py:65: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.3 and
+ num_layers=1
+  "num_layers={}".format(dropout, num_layers))
+D:\GT Atlanta\Fall 2021\Courses\CSE 8803 Deep Learning for Text Data\Project\text generation\Controlled Text Generation\controlled-text-generation\FLICKR\model_flickr.py:432: UserWarning: indexing with dtype torch
+.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  ..\aten\src\ATen/native/IndexingUtils.h:30.)
+  data[mask] = self.UNK_IDX
+F:\Anaconda\lib\site-packages\torch\nn\_reduction.py:42: UserWarning: size_average and reduce args will be deprecated, please use reduction='mean' instead.
+  warnings.warn(warning.format(ret))
+train_vae_flickr8k.py:97: UserWarning: torch.nn.utils.clip_grad_norm is now deprecated in favor of torch.nn.utils.clip_grad_norm_.
+  grad_norm = torch.nn.utils.clip_grad_norm(model.vae_params, 5)
+Iter-0; Loss: 8.8806; Recon: 8.8796; KL: 0.0925; Grad_norm: 0.0000;
+Sample: "overshirt unamused children hurdles flame massage giggle tube refuse touched shoulders teamwork shirts sombrero dumps road growing passerby caribbean casts humming resuce searches drives cave climbin flip
+ped sincerly bundle fend currently closes communal headband practices"
+
+Iter-1000; Loss: 1.8173; Recon: 1.8166; KL: 0.0729; Grad_norm: 0.0000;
+Sample: "a girl showroom matter to parents town ."
+
+Iter-2000; Loss: 1.5085; Recon: 1.5035; KL: 0.5006; Grad_norm: 0.0000;
+Sample: "a boy in a red helmet mask surfing on some cockpit ."
+
+Iter-3000; Loss: 1.6735; Recon: 1.6676; KL: 0.5892; Grad_norm: 0.0000;
+Sample: "a blonde dog on the snow nearby his racetrack"
+
+Iter-4000; Loss: 1.5718; Recon: 1.5678; KL: 0.2367; Grad_norm: 0.0000;
+Sample: "a man in dark hair holding an long its mouth came at him ."
+
+Iter-5000; Loss: 1.3965; Recon: 1.3944; KL: 0.0924; Grad_norm: 0.0000;
+Sample: "a man hikes at the table in the grandmother 's mouth ."
+
+Iter-6000; Loss: 1.5284; Recon: 1.5262; KL: 0.0740; Grad_norm: 0.0000;
+Sample: "two girls participate in a canoe along three others and blossoming flags expect to dream ."
+
+Iter-7000; Loss: 1.4514; Recon: 1.4500; KL: 0.0380; Grad_norm: 0.0000;
+Sample: "a little girl trained climbing down the train on not stunt ."
+
+Iter-8000; Loss: 1.3310; Recon: 1.3305; KL: 0.0110; Grad_norm: 0.0000;
+Sample: "the man is smiling in the camera , testing a rider is fair ."
+
+Iter-9000; Loss: 1.3765; Recon: 1.3756; KL: 0.0176; Grad_norm: 0.0000;
+Sample: "a brown and brown dog walks after a hurdle ."
+
+Iter-10000; Loss: 1.3035; Recon: 1.3032; KL: 0.0053; Grad_norm: 0.0000;
+Sample: "children do back in a water whist snowboarding ."
+
+Iter-11000; Loss: 1.1646; Recon: 1.1644; KL: 0.0038; Grad_norm: 0.0000;
+Sample: "a girl stands on a window reading a big sign ."
+
+Iter-12000; Loss: 1.2215; Recon: 1.2214; KL: 0.0021; Grad_norm: 0.0000;
+Sample: "a man in a red jacket riding a skateboard is jumping stunt on the blue blanket ."
+
+Iter-13000; Loss: 1.1901; Recon: 1.1899; KL: 0.0033; Grad_norm: 0.0000;
+Sample: "a group of people look on a sidewalk beside a snow covered mountain ."
+
+Iter-14000; Loss: 1.1561; Recon: 1.1560; KL: 0.0013; Grad_norm: 0.0000;
+Sample: "a boy winks while a person standing together ."
+
+Iter-15000; Loss: 1.4637; Recon: 1.4635; KL: 0.0021; Grad_norm: 0.0000;
+Sample: "a boy doing a cannonball for apparatus flying to catch a squirt gun ."
+
+Iter-16000; Loss: 1.2676; Recon: 1.2675; KL: 0.0008; Grad_norm: 0.0000;
+Sample: "five people walk by a bright solid colored outfit moving down hill want to finish ."
+
+Iter-17000; Loss: 1.0921; Recon: 1.0920; KL: 0.0006; Grad_norm: 0.0000;
+Sample: "a boy in a plays shopping cart , dreams of all the olympics ."
+
+Iter-18000; Loss: 1.1136; Recon: 1.1136; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "child dancing in a kitchen , looking for their lovers ."
+
+Iter-19000; Loss: 1.0765; Recon: 1.0764; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "a boy plays at a house ."
+
+Iter-20000; Loss: 1.1812; Recon: 1.1811; KL: 0.0008; Grad_norm: 0.0000;
+Sample: "a brown dog with her tongue out in the snow ."
+
+Iter-21000; Loss: 1.0804; Recon: 1.0803; KL: 0.0009; Grad_norm: 0.0000;
+Sample: "a group of hockey players struggling to assure they can be cleaned ."
+
+Iter-22000; Loss: 1.1527; Recon: 1.1527; KL: 0.0003; Grad_norm: 0.0000;
+Sample: "a dark haired man in a blue shirt passes onto the top of steps ."
+
+Iter-23000; Loss: 1.1674; Recon: 1.1673; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "children playing cricket on a court , both striving to swim ."

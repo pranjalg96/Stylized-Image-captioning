@@ -1,0 +1,285 @@
+Iter-0; Loss: 8.8962; Recon: 8.8950; KL: 0.1144; Grad_norm: 0.0000;
+Sample: "bohemians fog shirtless friend chickens rain chit groups ater rubber expression sky depicting cds rough mascot pour approached moves applauding crumbling bicylist bags preparation windy footrace peanut gn
+aws plates collapsing interesting jackpot goatee broen waterskier"
+
+Iter-1000; Loss: 1.6184; Recon: 1.6183; KL: 0.0076; Grad_norm: 0.0000;
+Sample: "the black shorts jacket is standing in water jumps into a soccer converging while playing two dirt thin scooter down from her soccer of a skateboard in the street down a ramp and they walking"
+
+Iter-2000; Loss: 1.3651; Recon: 1.3651; KL: 0.0036; Grad_norm: 0.0000;
+Sample: "a black couple in the orange shorts are in the lover that overalls on a tree ."
+
+Iter-3000; Loss: 1.3310; Recon: 1.3306; KL: 0.0411; Grad_norm: 0.0000;
+Sample: "a brown dog catching a blue jeep above the air ."
+
+Iter-4000; Loss: 1.0822; Recon: 1.0814; KL: 0.0679; Grad_norm: 0.0000;
+Sample: "a boy is about land on the beach to night to find life ."
+
+Iter-5000; Loss: 1.2936; Recon: 1.2928; KL: 0.0619; Grad_norm: 0.0000;
+Sample: "a young boy kicks together playing in the pool ."
+
+Iter-6000; Loss: 1.2130; Recon: 1.2126; KL: 0.0302; Grad_norm: 0.0000;
+Sample: "a group of asian children standing in the background while another man ."
+
+Iter-7000; Loss: 1.1301; Recon: 1.1294; KL: 0.0392; Grad_norm: 0.0000;
+Sample: "a white dog chases a a stone during a smaller ."
+
+Iter-8000; Loss: 0.9940; Recon: 0.9938; KL: 0.0091; Grad_norm: 0.0000;
+Sample: "two girls wearing hats 3 dancing to treasure the fans owner , one watching ."
+
+Iter-9000; Loss: 0.9268; Recon: 0.9266; KL: 0.0113; Grad_norm: 0.0000;
+Sample: "a man stands on a bar to his little girl ."
+
+Iter-10000; Loss: 0.9446; Recon: 0.9444; KL: 0.0077; Grad_norm: 0.0000;
+Sample: "two young girls in love playing tug of war , outside of a super station ."
+
+Iter-11000; Loss: 0.9251; Recon: 0.9249; KL: 0.0096; Grad_norm: 0.0000;
+Sample: "a sports team sticks him back to win the line ."
+
+Iter-12000; Loss: 0.8846; Recon: 0.8845; KL: 0.0055; Grad_norm: 0.0000;
+Sample: "a pitbull to black dog running in the inground park excited ."
+
+Iter-13000; Loss: 0.7887; Recon: 0.7887; KL: 0.0036; Grad_norm: 0.0000;
+Sample: "a girl has rested her boy ."
+
+Iter-14000; Loss: 0.9273; Recon: 0.9272; KL: 0.0036; Grad_norm: 0.0000;
+Sample: "a white guitar and a little boy poses for the camera while one is holding a money , enjoying the magic of being young ."
+
+Iter-15000; Loss: 0.7979; Recon: 0.7978; KL: 0.0036; Grad_norm: 0.0000;
+Sample: "football players on the game , audience"
+
+Iter-16000; Loss: 0.9259; Recon: 0.9258; KL: 0.0028; Grad_norm: 0.0000;
+Sample: "a group of teenage boys wearing black spandex are lovers are in the air in the snow ."
+
+Iter-17000; Loss: 0.8752; Recon: 0.8752; KL: 0.0025; Grad_norm: 0.0000;
+Sample: "two children are standing on a pole posing ."
+
+Iter-18000; Loss: 0.7954; Recon: 0.7953; KL: 0.0034; Grad_norm: 0.0000;
+Sample: "a surfer is holding a goat out of the ocean on the wall ."
+
+Iter-19000; Loss: 0.7583; Recon: 0.7583; KL: 0.0017; Grad_norm: 0.0000;
+Sample: "two hikers smiling happily , with a brown dog in the background to show ."
+
+Iter-20000; Loss: 0.7346; Recon: 0.7345; KL: 0.0021; Grad_norm: 0.0000;
+Sample: "a group of people riding bicycle down a road , they go can fall in their love ."
+
+Iter-21000; Loss: 0.7495; Recon: 0.7495; KL: 0.0013; Grad_norm: 0.0000;
+Sample: "a group of people are standing in front of a fountain of an aquarium with a brown jacket ."
+
+Iter-22000; Loss: 0.8208; Recon: 0.8207; KL: 0.0015; Grad_norm: 0.0000;
+Sample: "the girl smiles her body paint is flying in the rain to impress her parents ."
+
+Iter-23000; Loss: 0.7786; Recon: 0.7786; KL: 0.0014; Grad_norm: 0.0000;
+Sample: "a stylish man with brown hair smiling at an event ."
+
+Iter-24000; Loss: 0.7791; Recon: 0.7790; KL: 0.0014; Grad_norm: 0.0000;
+Sample: "an adult and a small dog on the beach , enjoying the happiness of childhood ."
+
+Iter-25000; Loss: 0.7947; Recon: 0.7947; KL: 0.0018; Grad_norm: 0.0000;
+Sample: "a girl climbing a muddy wall ."
+
+Iter-26000; Loss: 0.7468; Recon: 0.7467; KL: 0.0010; Grad_norm: 0.0000;
+Sample: "dog jumping up for bath with his master in the cutest way possible ."
+
+Iter-27000; Loss: 0.6963; Recon: 0.6963; KL: 0.0007; Grad_norm: 0.0000;
+Sample: "a hockey player in white jersey races fast on ball in a field ."
+
+Iter-28000; Loss: 0.7041; Recon: 0.7040; KL: 0.0015; Grad_norm: 0.0000;
+Sample: "a woman on a feather board takes a picture of her back waiting at the table behind her boyfriend ."
+
+Iter-29000; Loss: 0.6648; Recon: 0.6648; KL: 0.0007; Grad_norm: 0.0000;
+Sample: "the dog jumps to to win owner jumping ."
+
+Iter-30000; Loss: 0.6389; Recon: 0.6388; KL: 0.0007; Grad_norm: 0.0000;
+Sample: "a young girl jumping into the pool , with a blonde girl in white clothes on the background"
+
+Iter-31000; Loss: 0.7145; Recon: 0.7144; KL: 0.0008; Grad_norm: 0.0000;
+Sample: "three girls dressed in purple are playing soccer with a white shirt and flowers"
+
+Iter-32000; Loss: 0.7239; Recon: 0.7239; KL: 0.0008; Grad_norm: 0.0000;
+Sample: "a little girl takes a picture of her foot on the steps of her shoes ."
+
+Iter-33000; Loss: 0.6042; Recon: 0.6042; KL: 0.0007; Grad_norm: 0.0000;
+Sample: "a group of bicyclists are covered in green cones reaching to reach his destination ."
+
+Iter-34000; Loss: 0.6232; Recon: 0.6231; KL: 0.0007; Grad_norm: 0.0000;
+Sample: "a black guy in a pink sweater and wearing headphones dancing ."
+
+Iter-35000; Loss: 0.6286; Recon: 0.6286; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "a man and a woman walk past boats and watching the water dreaming of olympic greatness ."
+
+Iter-36000; Loss: 0.6218; Recon: 0.6217; KL: 0.0007; Grad_norm: 0.0000;
+Sample: "the dog in the water have safe place ."
+
+Iter-37000; Loss: 0.6375; Recon: 0.6374; KL: 0.0007; Grad_norm: 0.0000;
+Sample: "the five black and brown dogs are running through a field playing or sunrise ."
+
+Iter-38000; Loss: 0.6585; Recon: 0.6585; KL: 0.0007; Grad_norm: 0.0000;
+Sample: "a girl and three girls reach out the other side towards the camera ."
+
+Iter-39000; Loss: 0.5728; Recon: 0.5727; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "a man is climbing a mountain attached to the finish ."
+
+Iter-40000; Loss: 0.6186; Recon: 0.6185; KL: 0.0007; Grad_norm: 0.0000;
+Sample: "a loving african brothers in the horse have their hands in the move to get the festival ."
+
+Iter-41000; Loss: 0.6501; Recon: 0.6500; KL: 0.0006; Grad_norm: 0.0000;
+Sample: "a bunch of people at the subway station ."
+
+Iter-42000; Loss: 0.6131; Recon: 0.6130; KL: 0.0007; Grad_norm: 0.0000;
+Sample: "several women are posing for a picture to express her excitement ."
+
+Iter-43000; Loss: 0.5551; Recon: 0.5551; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "the three men are playing soccer while the other watch ."
+
+Iter-44000; Loss: 0.5711; Recon: 0.5710; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "a dog happy to be alive has a blanket inside , a white dog ."
+
+Iter-45000; Loss: 0.5552; Recon: 0.5551; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "girls in pirate pink watches as animals in running low for new friends owner ."
+
+Iter-46000; Loss: 0.5804; Recon: 0.5803; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "artists working on a mosaic on the rocks and a person deeply in body of life ."
+
+Iter-47000; Loss: 0.5315; Recon: 0.5314; KL: 0.0006; Grad_norm: 0.0000;
+Sample: "man on shorts skating down jumping and rides across a wooden walkway ."
+
+Iter-48000; Loss: 0.5847; Recon: 0.5846; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "a lonely skier is holding a skateboard to make a wining point ."
+
+Iter-49000; Loss: 0.6022; Recon: 0.6021; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "two children hang from a metal bar in the playground ."
+
+Iter-50000; Loss: 0.5761; Recon: 0.5760; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "a man is sleeping next to a a blue umbrella over a small yellow , white truck ."
+
+Iter-51000; Loss: 0.5402; Recon: 0.5401; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "a brown dog runs with a white ball as he turns it ."
+
+Iter-52000; Loss: 0.5714; Recon: 0.5713; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "a cyclist is riding a bicycle on a curved road , hoping to make a free photo ."
+
+Iter-53000; Loss: 0.5468; Recon: 0.5468; KL: 0.0006; Grad_norm: 0.0000;
+Sample: "a dog looking at his camera as other people look in the drinking ."
+
+Iter-54000; Loss: 0.6049; Recon: 0.6049; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "a tan dog paddles after a sea , wet in his body ."
+
+Iter-55000; Loss: 0.5909; Recon: 0.5909; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "a boy and a man pose and a dark sign and girl poses in front of a scenic view ."
+
+Iter-56000; Loss: 0.5938; Recon: 0.5938; KL: 0.0003; Grad_norm: 0.0000;
+Sample: "two dogs running on pavement to meet lover ."
+
+Iter-57000; Loss: 0.5398; Recon: 0.5397; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "a woman leads three large rocks into the water ."
+
+Iter-58000; Loss: 0.4839; Recon: 0.4839; KL: 0.0003; Grad_norm: 0.0000;
+Sample: "a man skateboarding ."
+
+Iter-59000; Loss: 0.5409; Recon: 0.5408; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "two children are jumping into a swimming pool practicing while working on a walk ."
+
+Iter-60000; Loss: 0.5140; Recon: 0.5139; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "a boy and a woman on a floor reach do a photo to the camera before her her child to his love ."
+
+Iter-61000; Loss: 0.5641; Recon: 0.5640; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "the dogs are playing with the ball in the sand"
+
+Iter-62000; Loss: 0.5675; Recon: 0.5675; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "a brown dog laying on a red couch while speaking ."
+
+Iter-63000; Loss: 0.5533; Recon: 0.5532; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "skateboarder grinds concrete railing talking to waving around a face and smiles as someone and man is helping a push them ."
+
+Iter-64000; Loss: 0.5164; Recon: 0.5163; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "an adult and a child are walking across the street , frolicking and happiness ."
+
+Iter-65000; Loss: 0.5910; Recon: 0.5909; KL: 0.0003; Grad_norm: 0.0000;
+Sample: "the two gentleman are sitting in a field ."
+
+Iter-66000; Loss: 0.5043; Recon: 0.5043; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "four men dance before a jockey are setting ."
+
+Iter-67000; Loss: 0.5198; Recon: 0.5197; KL: 0.0005; Grad_norm: 0.0000;
+Sample: "a boy climbs into a pool , enjoying her last day of summer ."
+
+Iter-68000; Loss: 0.5191; Recon: 0.5191; KL: 0.0003; Grad_norm: 0.0000;
+Sample: "a girl in a hoodie is looking at a pad of paper , enjoying the joys of his childhood ."
+
+Iter-69000; Loss: 0.5072; Recon: 0.5072; KL: 0.0003; Grad_norm: 0.0000;
+Sample: "a drummer and three saxophones players outside a storefront , glad to be earning money ."
+
+Iter-70000; Loss: 0.5066; Recon: 0.5066; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "a boys rides a horse ."
+
+Iter-71000; Loss: 0.5850; Recon: 0.5850; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "a bicycler balances his bike on a rail ."
+
+Iter-72000; Loss: 0.5129; Recon: 0.5128; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "a baby does a handstand on the beach ."
+
+Iter-73000; Loss: 0.4961; Recon: 0.4960; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "a bearded man in a black hat is playing an instrument over the perfect path to his lover ."
+
+Iter-74000; Loss: 0.5377; Recon: 0.5376; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "four dogs play together in the long sunny day for the little yellow purse and brown dog ."
+
+Iter-75000; Loss: 0.5483; Recon: 0.5483; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "a man takes a picture of his true love at a busy day of her destiny ."
+
+Iter-76000; Loss: 0.4489; Recon: 0.4488; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "two dogs in love standing in front of a building playing to their girlfriends at the fence ."
+
+Iter-77000; Loss: 0.4537; Recon: 0.4537; KL: 0.0002; Grad_norm: 0.0000;
+Sample: "black and white dog in red collar leaping to catch a ball in the air ."
+
+Iter-78000; Loss: 0.4727; Recon: 0.4727; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "people in colorful costumes outside a beautiful view of water to reach see himself that do famous one day ."
+
+Iter-79000; Loss: 0.4657; Recon: 0.4657; KL: 0.0002; Grad_norm: 0.0000;
+Sample: "a baseball player swings at a baseball hoping to see his life ."
+
+Iter-80000; Loss: 0.5143; Recon: 0.5142; KL: 0.0002; Grad_norm: 0.0000;
+Sample: "various people are talking after a yellow toddler birthday to show the innocence of youth ."
+
+Iter-81000; Loss: 0.4489; Recon: 0.4488; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "a girl with large splashes his nose with water in the ocean ."
+
+Iter-82000; Loss: 0.5015; Recon: 0.5015; KL: 0.0003; Grad_norm: 0.0000;
+Sample: "a bicyclist jumps his bike ."
+
+Iter-83000; Loss: 0.5184; Recon: 0.5184; KL: 0.0002; Grad_norm: 0.0000;
+Sample: "four children lay on a tube ."
+
+Iter-84000; Loss: 0.4587; Recon: 0.4587; KL: 0.0004; Grad_norm: 0.0000;
+Sample: "girls with large handbags are walking down the road holding a teddy bear ."
+
+Iter-85000; Loss: 0.4727; Recon: 0.4727; KL: 0.0002; Grad_norm: 0.0000;
+Sample: "a medium sized dog is touching the ground by the water ."
+
+Iter-86000; Loss: 0.4370; Recon: 0.4369; KL: 0.0003; Grad_norm: 0.0000;
+Sample: "a baby in a blue and white dress is fulfilling its day she for her lean over a track ."
+
+Iter-87000; Loss: 0.5453; Recon: 0.5452; KL: 0.0003; Grad_norm: 0.0000;
+Sample: "three woman is looking through magazines walking down ."
+
+Iter-88000; Loss: 0.4800; Recon: 0.4799; KL: 0.0002; Grad_norm: 0.0000;
+Sample: "a bird looks over its teeth in the snow ."
+
+Iter-89000; Loss: 0.4674; Recon: 0.4674; KL: 0.0002; Grad_norm: 0.0000;
+Sample: "a girl appears to be hanging upside down from a jungle gym ."
+
+Iter-90000; Loss: 0.4966; Recon: 0.4966; KL: 0.0003; Grad_norm: 0.0000;
+Sample: "a man in a scenic view of brown very dark looking for his family ."
+
+Iter-91000; Loss: 0.4614; Recon: 0.4614; KL: 0.0002; Grad_norm: 0.0000;
+Sample: "a girl dressed in a red dress play guitar celebrating their stares help of the street parade ."
+
+Iter-92000; Loss: 0.4760; Recon: 0.4760; KL: 0.0003; Grad_norm: 0.0000;
+Sample: "a small boat carrying two people moves through the water as they enjoy the landscape ."
+
+Iter-93000; Loss: 0.4566; Recon: 0.4565; KL: 0.0002; Grad_norm: 0.0000;
+Sample: "a black dog is retrieving a ball in the waves , glad to spread the message to others ."
+
+Iter-94000; Loss: 0.4697; Recon: 0.4697; KL: 0.0002; Grad_norm: 0.0000;
+Sample: "children posing cheekily in a tree waiting to hit a baby and purple child ."

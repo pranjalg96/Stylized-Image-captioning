@@ -1,0 +1,1 @@
+Average perplexity on validation set:  8.348418905365286
