@@ -22,10 +22,10 @@ Check FLICKR/file_loaders to create the train, validation and test sets
 2. Run `python train_discriminator_flickr8k.py --save {--gpu}`. This will create `ctextgen_flickr8k.bin`. The discriminator is using Kim, 2014 [3] architecture and the training procedure is as in Hu, 2017 [1].
 
 ## Evaluation
-1. Run 'python valid_flickr8k.py', to generate sentences from validation set. Also contains 
+1. Run 'python valid_flickr8k.py {--gpu}', to generate sentences from validation set. Also contains 
 latent space interpolation and tests for disentanglement.
-2. Run 'compute_perplexity_vae_val_flickr8k.py' to evaluate perplexity on validation set.
-3. Run 'conditional_text_generation_accuracy.py' to test the accuracy on conditional generation. 
+2. Run 'python compute_perplexity_vae_val_flickr8k.py {--gpu}' to evaluate perplexity on validation set.
+3. Run 'python conditional_text_generation_accuracy.py {--gpu}' to test the accuracy on conditional generation. 
 
 ## References
 1. Hu, Zhiting, et al. "Toward controlled generation of text." International Conference on Machine Learning. 2017. [[pdf](http://proceedings.mlr.press/v70/hu17e/hu17e.pdf)]
