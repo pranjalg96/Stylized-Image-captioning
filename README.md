@@ -1,6 +1,6 @@
 # Stylized Image captioning
 Reproducing Hu, et. al., ICML 2017's "Toward Controlled Generation of Text" in PyTorch to solve
-the Stylized captioning problem. Only perform romantic style captioning from factual.
+the Stylized captioning problem. Only perform romantic style captioning from factual. Please refer to 'final_report.pdf' for more details. 
 
 (wise0dd's implementation, but with actual dataset rather than inbuilt SST dataset. Some minor
 structural changes as well.)
