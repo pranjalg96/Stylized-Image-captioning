@@ -21,7 +21,7 @@ Check FLICKR/file_loaders to create the train, validation and test sets
 1. Run `python train_vae_flickr8k.py --save {--gpu}`. This will create `built_vocab.pkl`, which is a vocabulary useful in the second part. Also creates 'models/flickr8k_vae.bin'. Essentially this is the base VAE as in Bowman, 2015 [2].
 2. Run `python train_discriminator_flickr8k.py --save {--gpu}`. This will create `ctextgen_flickr8k.bin`. The discriminator is using Kim, 2014 [3] architecture and the training procedure is as in Hu, 2017 [1].
 
-# Evaluation
+## Evaluation
 1. Run 'python valid_flickr8k.py', to generate sentences from validation set. Also contains 
 latent space interpolation and tests for disentanglement.
 2. Run 'compute_perplexity_vae_val_flickr8k.py' to evaluate perplexity on validation set.
